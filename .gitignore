@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Echte Daten – niemals committen
+data/private/
+*.xlsx
+
+# System / Editor
+.DS_Store
+.vscode/
+.env
