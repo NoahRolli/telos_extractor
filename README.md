@@ -7,7 +7,7 @@ A deterministic rule engine **decides**: it turns the extracted data into
 customs positions (tariff lookup, splitting, aggregation, rounding, checks).
 
 > Semester project – *Machine Learning and Knowledge-Based Systems*,
-> BSc Business AI, FHNW. Authors: Noah Rolli, Jennifer Studer <Name>
+> BSc Business AI, FHNW. Authors: Jennifer Studer, Noah Rolli <Name>
 
 ## Why hybrid?
 
